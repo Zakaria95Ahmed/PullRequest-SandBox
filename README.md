@@ -24,10 +24,24 @@ e. Design the user interface using HTML and CSS (you can use Angular Material fo
 a. Configure CORS in the backend to allow requests from the frontend.
 b. Test the connection between frontend and backend.
 ------------------------------------------
-4.
+4.Implementing Core Functionalities:
+a. Display list of fruits.
+b. Add fruits to shopping cart.
+c. View and modify shopping cart.
+d. Create checkout process.
 ------------------------------------------
-5.
+5.Adding Security Features:
+a. Implement user registration and login.
+b. Add authentication and authorization using JWT.
 ------------------------------------------
-6.
+6.Testing the Application:
+a. Perform unit tests for backend and frontend.
+b. Conduct integration tests.
 ------------------------------------------
-7.
+7.Deployment:
+a. Set up production environment.
+b. Deploy backend to a server (e.g., AWS, Heroku).
+c. Deploy frontend (can use Netlify or GitHub Pages).
+
+These steps provide an overview of the process of creating the web application.
+=========================================
