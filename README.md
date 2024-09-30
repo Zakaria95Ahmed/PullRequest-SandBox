@@ -13,7 +13,12 @@ e. Create repository interfaces.
 f. Create services to implement business logic.
 g. Create REST controllers to provide API endpoints.
 ------------------------------------------
-2.
+2.Setting up the Frontend with Angular:
+a. Install Angular CLI and create a new project.
+b. Create main components (e.g., fruit list, fruit details, shopping cart).
+c. Create services to make HTTP requests to the backend.
+d. Implement routing for navigation between pages.
+e. Design the user interface using HTML and CSS (you can use Angular Material for design).
 ------------------------------------------
 3.
 ------------------------------------------
