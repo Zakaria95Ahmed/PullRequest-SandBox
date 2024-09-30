@@ -20,7 +20,9 @@ c. Create services to make HTTP requests to the backend.
 d. Implement routing for navigation between pages.
 e. Design the user interface using HTML and CSS (you can use Angular Material for design).
 ------------------------------------------
-3.
+3.Integrating Backend and Frontend:
+a. Configure CORS in the backend to allow requests from the frontend.
+b. Test the connection between frontend and backend.
 ------------------------------------------
 4.
 ------------------------------------------
